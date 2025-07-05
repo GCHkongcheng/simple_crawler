@@ -13,7 +13,7 @@
 ## 项目结构
 
 ```
-crawler2/
+main/
 ├── netease_financial_crawler.py  # 主爬虫程序
 ├── simple_analysis.py            # 数据分析模块
 ├── run_crawler.py                # 运行脚本
